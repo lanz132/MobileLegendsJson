@@ -40,6 +40,12 @@
         "name": "Hisoka Morow",
         "script": "154",
         "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Cecilion%20HxH.png"
+      },
+      {
+        "name": "Crimson Wings",
+        "script": "281",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103253.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -611,6 +617,12 @@
         "script": "74",
         "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest?cb=20230317102253",
         "tag": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Collector_Skin_Tag.png/revision/latest/thumbnail-down/width/43/height/20?cb=20220216235857"
+      },
+      {
+        "name": "Sponge Bob",
+        "script": "182",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103248.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },

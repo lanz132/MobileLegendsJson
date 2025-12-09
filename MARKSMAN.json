@@ -137,6 +137,18 @@
         "name": "Exorcist",
         "script": "166",
         "img": "https://github.com/lanz132/NEWIMG/raw/main/grangerexorcist.jpg"
+      },
+      {
+        "name": "Cosmic Finality",
+        "script": "194",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103258.jpg",
+        "tag": "(No Tags)"
+      },
+      {
+        "name": "Thunder Ascendant",
+        "script": "193",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103250.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -378,6 +390,12 @@
         "name": "High Seas Cadet",
         "script": "175",
         "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Kimmy%20elite%20new.png"
+      },
+      {
+        "name": "High Seas Cadet",
+        "script": "195",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103263.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
@@ -587,6 +605,12 @@
         "name": "Dragons Maw",
         "script": "176",
         "img": "https://github.com/lanz132/NEWIMG/raw/refs/heads/main/Clint%20mythic.png"
+      },
+      {
+        "name": "Crimson Blast",
+        "script": "192",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103254.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },

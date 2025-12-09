@@ -650,14 +650,12 @@
       {
         "name": "Shadow Ranger",
         "script": "85.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Shadow_Ranger.jpg/revision/latest/scale-to-width-down/250?cb=20210616160805",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Shadow_Ranger.jpg/revision/latest/scale-to-width-down/250?cb=20210616160805"
       },
       {
         "name": "Honor Blade",
         "script": "86.0",
-        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Honor_Blade.jpg/revision/latest/scale-to-width-down/250?cb=20210616160716",
-        "tag": "null"
+        "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Honor_Blade.jpg/revision/latest/scale-to-width-down/250?cb=20210616160716"
       },
       {
         "name": "Street Blow",
@@ -686,14 +684,18 @@
       {
         "name": "Quantum Edge",
         "script": "106.0",
-        "img": "https://github.com/lanz132/NEWIMG/raw/main/ben.jpg",
-        "tag": "null"
+        "img": "https://github.com/lanz132/NEWIMG/raw/main/ben.jpg"
       },
       {
         "name": "Phantom Mirage",
         "script": "118.0",
-        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/benedetta%20covenant.png",
-        "tag": "null"
+        "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/benedetta%20covenant.png"
+      },
+      {
+        "name": "Death Oath",
+        "script": "130",
+        "img": "https://github.com/lanz132/NEW_FILE/raw/main/1000103255.jpg",
+        "tag": "(No Tags)"
       }
     ]
   },
